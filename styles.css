@@ -1,15 +1,34 @@
+
 body {
   margin-left:30%;
   margin-right: 30%;
   font-family: sans-serif;
+  background-color: #948030;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
 }
 h1 {
   font-family: 'Permanent Marker', cursive;
+  color: white;
+  text-align: center;
 }
 img {
-  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px;
 }
 h3 {
   font-family: 'Permanent Marker', cursive;
   font-weight: lighter;
+}
+li {
+  font-family: monospace;
+  background-color: khaki;
+  padding: 10px;
+  text-align: center;
+}
+#monolog {
+  background-color: khaki;
+  padding: 10px;
 }
